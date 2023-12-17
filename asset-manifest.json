@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.4e9cec0a.css",
+    "main.js": "/reactlivewebsite/static/js/main.60fdae5d.js",
+    "static/js/787.3668919c.chunk.js": "/reactlivewebsite/static/js/787.3668919c.chunk.js",
+    "static/media/bg-2.webp": "/reactlivewebsite/static/media/bg-2.56f8f000f6c1549ed918.webp",
+    "static/media/phones.webp": "/reactlivewebsite/static/media/phones.2a5dcbac78c56f50aa6e.webp",
+    "static/media/img-2.webp": "/reactlivewebsite/static/media/img-2.70376657e331bc7fb325.webp",
+    "static/media/bg-3.webp": "/reactlivewebsite/static/media/bg-3.dd051320159051359594.webp",
+    "static/media/bg-4.webp": "/reactlivewebsite/static/media/bg-4.84f360a8d6d6b4726928.webp",
+    "static/media/img-1.webp": "/reactlivewebsite/static/media/img-1.08e6f1e459c5e0f412f3.webp",
+    "static/media/bg-1.webp": "/reactlivewebsite/static/media/bg-1.91f187103427f5609271.webp",
+    "static/media/logo.png": "/reactlivewebsite/static/media/logo.7100452607657cffe867.png",
+    "static/media/img-3.webp": "/reactlivewebsite/static/media/img-3.c48af858f55778f19d56.webp",
+    "static/media/img-5.webp": "/reactlivewebsite/static/media/img-5.8b1c02275dc62a8d81c5.webp",
+    "static/media/img-4.webp": "/reactlivewebsite/static/media/img-4.b6c79ab8bfb04d62a2c3.webp",
+    "static/media/team4.webp": "/reactlivewebsite/static/media/team4.fcbe3f4569290d9bf87a.webp",
+    "static/media/team3.webp": "/reactlivewebsite/static/media/team3.6867597c5181bd27a45d.webp",
+    "static/media/team1.webp": "/reactlivewebsite/static/media/team1.fac88b5d19b42b448e53.webp",
+    "static/media/team2.webp": "/reactlivewebsite/static/media/team2.a219e4bffd344db913c4.webp",
+    "static/media/2.svg": "/reactlivewebsite/static/media/2.8c4986ee4828b47d16f5cd694ef065f2.svg",
+    "static/media/1.svg": "/reactlivewebsite/static/media/1.700e7eb865adba12762f36ed58aedbdc.svg",
+    "static/media/bg-5.webp": "/reactlivewebsite/static/media/bg-5.27b7f0d566f26944f687.webp",
+    "static/media/review-3.webp": "/reactlivewebsite/static/media/review-3.326477e664c42c68bbec.webp",
+    "static/media/author2.webp": "/reactlivewebsite/static/media/author2.5e1d6d84df6940a63499.webp",
+    "static/media/author1.webp": "/reactlivewebsite/static/media/author1.dacfaf2ba8044880f450.webp",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.4e9cec0a.css.map": "/reactlivewebsite/static/css/main.4e9cec0a.css.map",
+    "main.60fdae5d.js.map": "/reactlivewebsite/static/js/main.60fdae5d.js.map",
+    "787.3668919c.chunk.js.map": "/reactlivewebsite/static/js/787.3668919c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9cec0a.css",
+    "static/js/main.60fdae5d.js"
+  ]
+}
